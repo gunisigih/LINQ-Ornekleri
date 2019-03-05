@@ -1,0 +1,6 @@
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek10\bin\Debug\BasitOrnek10.exe.config
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek10\bin\Debug\BasitOrnek10.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek10\bin\Debug\BasitOrnek10.pdb
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek10\obj\Debug\BasitOrnekA1.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek10\obj\Debug\BasitOrnek10.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek10\obj\Debug\BasitOrnek10.pdb

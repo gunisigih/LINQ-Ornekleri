@@ -1,0 +1,14 @@
+﻿LINQ Sağlayıcıları (LINQ Providers)
+LINQ yazımızda, LINQ ile farklı türdeki verileri sorgulayabileceğinizi belirtmiştik. Farklı ortamlarda bulunan verileri sorgulamak için LINQ Sağlayıcıları denilen farklı LINQ kütüphaneleri kullanılır.
+
+Bunlar;
+
+- Hafızadaki IEnumerable<T> arayüzünü uygulayan nesneleri sorgulamak için kullanılan "LINQ to Objects",
+
+- XML belgelerini XElement koleksiyonuna çevirerek LINQ komutlarının kullanımına imkan tanıyan "LINQ to XML" (XLINQ),
+
+- SQL Server Veritabanları ve SQL Server Compact Veritabanları üzerinde LINQ ile sorgulama yapmamızı sağlayan "LINQ to SQL" (DLINQ),
+
+- ADO.NET Datasetlerden sorgulama yapmanızı, dolayısıyla ADO.NET'in kullanabildiği tam XML desteği dahil tüm veritabanlarını sorgulamanızı sağlayan "LINQ to Datasets"
+
+- ADO.NET Entity Framework tarafından oluşturulan varlıkları sorgulamak için "LINQ to Entity"

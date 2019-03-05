@@ -1,0 +1,13 @@
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.exe.config
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.pdb
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.pdb
+C:\Users\gunis\Desktop\github\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.exe.config
+C:\Users\gunis\Desktop\github\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.exe
+C:\Users\gunis\Desktop\github\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.pdb
+C:\Users\gunis\Desktop\github\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.csprojAssemblyReference.cache
+C:\Users\gunis\Desktop\github\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\gunis\Desktop\github\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.exe
+C:\Users\gunis\Desktop\github\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.pdb

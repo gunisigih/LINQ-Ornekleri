@@ -1,0 +1,11 @@
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\bin\Debug\BasitOrnek5.exe.config
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\bin\Debug\BasitOrnek5.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\bin\Debug\BasitOrnek5.pdb
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\bin\Debug\LinqOrnekleri-TemelIslemler.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\bin\Debug\LinqOrnekleri-TemelIslemler.pdb
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\bin\Debug\LinqOrnekleri-TemelIslemler.exe.config
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.csprojAssemblyReference.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.csproj.CopyComplete
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.pdb

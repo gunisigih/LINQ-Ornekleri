@@ -1,0 +1,7 @@
+C:\Users\nukhe\source\repos\LinqOrnekleri\LinqOrnekleri-TemelIslemler\bin\Debug\LinqOrnekleri-TemelIslemler.exe.config
+C:\Users\nukhe\source\repos\LinqOrnekleri\LinqOrnekleri-TemelIslemler\bin\Debug\LinqOrnekleri-TemelIslemler.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\LinqOrnekleri-TemelIslemler\bin\Debug\LinqOrnekleri-TemelIslemler.pdb
+C:\Users\nukhe\source\repos\LinqOrnekleri\LinqOrnekleri-TemelIslemler\obj\Debug\LinqOrnekleri-TemelIslemler.csprojAssemblyReference.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\LinqOrnekleri-TemelIslemler\obj\Debug\LinqOrnekleri-TemelIslemler.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\LinqOrnekleri-TemelIslemler\obj\Debug\LinqOrnekleri-TemelIslemler.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\LinqOrnekleri-TemelIslemler\obj\Debug\LinqOrnekleri-TemelIslemler.pdb

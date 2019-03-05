@@ -1,0 +1,22 @@
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\bin\Debug\BasitOrnek6.exe.config
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\bin\Debug\BasitOrnek6.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\bin\Debug\BasitOrnek6.pdb
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\bin\Debug\LinqOrnekleri-TemelIslemler.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\bin\Debug\LinqOrnekleri-TemelIslemler.pdb
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\bin\Debug\LinqOrnekleri-TemelIslemler.exe.config
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.csprojAssemblyReference.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.csproj.CopyComplete
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\bin\Debug\BasitOrnek6.exe.config
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\bin\Debug\BasitOrnek6.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\bin\Debug\BasitOrnek6.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\bin\Debug\LinqOrnekleri-TemelIslemler.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\bin\Debug\LinqOrnekleri-TemelIslemler.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\bin\Debug\LinqOrnekleri-TemelIslemler.exe.config
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.csprojAssemblyReference.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.csproj.CoreCompileInputs.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.csproj.CopyComplete
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek6\obj\Debug\BasitOrnek6.pdb

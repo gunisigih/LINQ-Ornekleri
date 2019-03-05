@@ -1,0 +1,13 @@
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek7\bin\Debug\BasitOrnek7.exe.config
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek7\bin\Debug\BasitOrnek7.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek7\bin\Debug\BasitOrnek7.pdb
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek7\obj\Debug\BasitOrnek7.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek7\obj\Debug\BasitOrnek7.exe
+C:\Users\nukhe\source\repos\LinqOrnekleri\BasitOrnek7\obj\Debug\BasitOrnek7.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek7\bin\Debug\BasitOrnek7.exe.config
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek7\bin\Debug\BasitOrnek7.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek7\bin\Debug\BasitOrnek7.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek7\obj\Debug\BasitOrnek7.csprojAssemblyReference.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek7\obj\Debug\BasitOrnek7.csproj.CoreCompileInputs.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek7\obj\Debug\BasitOrnek7.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\LinqOrnekleri\BasitOrnek7\obj\Debug\BasitOrnek7.pdb
